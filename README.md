@@ -89,4 +89,4 @@ Contributing
 We welcome contributions from the community! If you have ideas for improvements or new features, please feel free to open an issue or submit a pull request. Your feedback and contributions are valuable in helping us improve InstantBook Revolution.
 
 Contact
-For any questions or further information, please contact [Your Name] at [your.email@example.com].
+For any questions or further information, please contact Johnny at johnny@tuneai.se.
